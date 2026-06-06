@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**pereiramateus23/pereiramateus23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No momento estudante de Análise e Desenvolvimento de Sistemas atualmente em transição de carreira da área administrativa para o setor de tecnologia. Possuo experiência em gestão de dados e rotinas administrativas. 
+Alguns conhecimentos em:
+- SQL, 
+- Pacote Office, 
+- PowerBI, 
+- HTML, 
+- CSS, 
+- Javascript,
+- POO,
+- Arquitetura de Software 
+- Inteligência Artificial.
